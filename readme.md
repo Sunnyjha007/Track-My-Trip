@@ -4,11 +4,11 @@
 
 ### Eat, Sleep, Travel, Repeat!!
 
-[TrackMyTrip](https://trackmytrip.netlify.app/)
+[TrackMyTrip](https://track-my-trip-v1.netlify.app/)
 
 ## FOR LOGIN : 
-   ### Email: sunnyjha123@gmail.com (Fake email)
-   ### Password: ************ (Fake Password)
+   ### Email: sunny123@gmail.com (Fake email)
+   ### Password: Pass1234@ (Fake Password)
 
 ## Note: json-server must be running for CRUD operations in Local device!!   
 
