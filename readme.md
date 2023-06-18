@@ -9,3 +9,5 @@
 ## FOR LOGIN : 
    ### Email: sunnyjha123@gmail.com (Fake email)
    ### Password: ************ (Fake Password)
+
+## Note: json-server must be running for CRUD operations in Local device!!   
